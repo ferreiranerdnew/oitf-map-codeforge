@@ -250,11 +250,6 @@
                                  "name":"jitsiRoom",
                                  "type":"string",
                                  "value":"jitsiMilan"
-                                }, 
-                                {
-                                 "name":"jitsiRoomAdminTag",
-                                 "type":"string",
-                                 "value":"premium"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -309,11 +304,6 @@
                                  "name":"jitsiRoom",
                                  "type":"string",
                                  "value":"Auditorium"
-                                }, 
-                                {
-                                 "name":"jitsiRoomAdminTag",
-                                 "type":"string",
-                                 "value":"premium"
                                 }],
                          "type":"tilelayer",
                          "visible":true,
@@ -760,7 +750,7 @@
                  "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; midi;"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":120,
          "x":0,
          "y":0
@@ -803,7 +793,7 @@
          "name":"ChapitreToCerclePrivate",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":120,
          "x":0,
          "y":0
@@ -846,7 +836,7 @@
          "name":"ChapitreToCerclePublic",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":120,
          "x":0,
          "y":0
@@ -889,7 +879,7 @@
          "name":"ToEvent",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":120,
          "x":0,
          "y":0
@@ -932,7 +922,7 @@
          "name":"urlPanneau",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":120,
          "x":0,
          "y":0
@@ -975,7 +965,7 @@
          "name":"Document",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":120,
          "x":0,
          "y":0
@@ -1018,7 +1008,7 @@
          "name":"Video",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":120,
          "x":0,
          "y":0
