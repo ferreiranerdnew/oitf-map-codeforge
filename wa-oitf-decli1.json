@@ -750,7 +750,7 @@
                  "value":"fullscreen; accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; midi;"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -793,7 +793,7 @@
          "name":"ChapitreToCerclePrivate",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -836,7 +836,7 @@
          "name":"ChapitreToCerclePublic",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -879,7 +879,7 @@
          "name":"ToEvent",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -922,7 +922,7 @@
          "name":"urlPanneau",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -965,7 +965,7 @@
          "name":"Document",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -1008,7 +1008,7 @@
          "name":"Video",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -1269,7 +1269,7 @@
                  "name":"Floor 5",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":120,
                  "x":0,
                  "y":0
@@ -1277,7 +1277,7 @@
          "name":"Floor",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1545,7 +1545,7 @@
          "name":"Wall",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1813,7 +1813,7 @@
          "name":"Details",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1861,7 +1861,7 @@
                  "value":"{{^johannesbourgDoor}}1{{\/johannesbourgDoor}}"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -1910,7 +1910,7 @@
                  "value":"{{#johannesbourgDoor}}1{{\/johannesbourgDoor}}"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -1959,7 +1959,7 @@
                  "value":"{{^milanDoor}}1{{\/milanDoor}}"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -2008,7 +2008,7 @@
                  "value":"{{#milanDoor}}1{{\/milanDoor}}"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -2057,7 +2057,7 @@
                  "value":"{{^visioDoor}}1{{\/visioDoor}}"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -2106,7 +2106,7 @@
                  "value":"{{#visioDoor}}1{{\/visioDoor}}"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -2174,7 +2174,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -2360,7 +2360,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"\/wa\/search\/videos"
+                         "value":"https:\/\/www.youtube.com\/watch?v=rD6SaI8EoFU&list=PLfY4aYg9e-lPzQIXC_v0kb9X0YDaflYtl&index=2"
                         }, 
                         {
                          "name":"label",
@@ -2499,7 +2499,7 @@
                  "value":"premium"
                 }],
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -2810,7 +2810,7 @@
          "name":"Above",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
