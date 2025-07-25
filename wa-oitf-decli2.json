@@ -768,7 +768,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"{{{ urlVideoAuditoriumYoutube }}}"
+                 "value":"https://www.youtube.com/embed/rD6SaI8EoFU?list=PLfY4aYg9e-lPzQIXC_v0kb9X0YDaflYtl&index=2"
                 }, 
                 {
                  "name":"openWebsitePolicy",
