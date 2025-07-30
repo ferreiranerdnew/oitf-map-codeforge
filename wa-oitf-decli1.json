@@ -11072,6 +11072,19 @@
          "tilecount":6,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":32,
+         "firstgid":32131,
+         "image":"tilesets\/CustomTilesetBeauty.png",
+         "imageheight":1024,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"CustomTilesetBeauty",
+         "spacing":0,
+         "tilecount":1024,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
