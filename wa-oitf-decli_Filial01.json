@@ -353,18 +353,7 @@
         }, 
         {
          "id":47,
-         "layers":[
-                {
-                 "draworder":"topdown",
-                 "id":195,
-                 "name":"floorLayer",
-                 "objects":[],
-                 "opacity":1,
-                 "type":"objectgroup",
-                 "visible":true,
-                 "x":0,
-                 "y":0
-                }],
+         "layers":[],
          "name":"Floor",
          "opacity":1,
          "type":"group",
@@ -388,6 +377,17 @@
          "name":"Details",
          "opacity":1,
          "type":"group",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":195,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
          "visible":true,
          "x":0,
          "y":0
