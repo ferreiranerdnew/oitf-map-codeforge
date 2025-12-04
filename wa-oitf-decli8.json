@@ -273,6 +273,23 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":151,
+         "name":"configuration",
+         "objects":[],
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"tag",
+                 "type":"string",
+                 "value":"premium"
+                }],
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "id":68,
          "layers":[
                 {
@@ -333,23 +350,6 @@
                  "type":"tilelayer",
                  "visible":true,
                  "width":40,
-                 "x":0,
-                 "y":0
-                }, 
-                {
-                 "draworder":"topdown",
-                 "id":151,
-                 "name":"configuration",
-                 "objects":[],
-                 "opacity":1,
-                 "properties":[
-                        {
-                         "name":"tag",
-                         "type":"string",
-                         "value":"premium"
-                        }],
-                 "type":"objectgroup",
-                 "visible":true,
                  "x":0,
                  "y":0
                 }, 
