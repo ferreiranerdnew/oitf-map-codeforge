@@ -104,6 +104,27 @@
          "y":0
         }, 
         {
+         "id":47,
+         "layers":[
+                {
+                 "draworder":"topdown",
+                 "id":195,
+                 "name":"floorLayer",
+                 "objects":[],
+                 "opacity":1,
+                 "type":"objectgroup",
+                 "visible":true,
+                 "x":0,
+                 "y":0
+                }],
+         "name":"Floor",
+         "opacity":1,
+         "type":"group",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "id":39,
          "layers":[
                 {
@@ -557,27 +578,6 @@
                  "y":0
                 }],
          "name":"Details",
-         "opacity":1,
-         "type":"group",
-         "visible":true,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "id":47,
-         "layers":[
-                {
-                 "draworder":"topdown",
-                 "id":195,
-                 "name":"floorLayer",
-                 "objects":[],
-                 "opacity":1,
-                 "type":"objectgroup",
-                 "visible":true,
-                 "x":0,
-                 "y":0
-                }],
-         "name":"Floor",
          "opacity":1,
          "type":"group",
          "visible":true,
